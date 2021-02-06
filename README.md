@@ -6,3 +6,4 @@
 - さらに AWS Amplify と連携し、Hostした。
 - GitHubにあるindex.htmlがホームページとして公開される。
 - この場合は https://main.d3oix435xvg33o.amplifyapp.com/
+- https://urefzqypgi.execute-api.us-east-1.amazonaws.com/dev
